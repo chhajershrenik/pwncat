@@ -3,7 +3,7 @@ prompt-toolkit
 git+https://github.com/calebstewart/paramiko
 wcwidth==0.1.9
 netifaces==0.10.9
-pygments==2.6.1
+pygments==2.7.4
 git+https://github.com/JohnHammond/base64io-python
 commentjson
 requests

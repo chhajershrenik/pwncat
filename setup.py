@@ -10,7 +10,7 @@ dependencies = [
     "colorama==0.4.3",
     "wcwidth==0.1.9",
     "netifaces==0.10.9",
-    "pygments==2.6.1",
+    "pygments==2.7.4",
     "base64io",
     "commentjson",
     "requests",
